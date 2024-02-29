@@ -1,0 +1,122 @@
+.button1{
+    margin-right: 100px;
+    width: 165px;
+    height: 49px;
+    flex-shrink: 0;
+    border-radius: 5px;
+    background: #F6762C;
+    border: none;
+}
+.header{
+    background-image: url(./img/back.png);
+    width: 100%;
+    background-repeat: no-repeat;
+    height: 780px;
+    background: cover;
+
+}
+.body1{
+    margin-top: 200px;
+    margin-left: 230px;
+}
+body{
+    background: #1C1C1C;
+}
+.burger{
+    margin-top: 240px;
+}
+.dollar{
+    color: #F6762C;;
+}
+.burger1{
+    background: #312F30;
+}
+.button2{
+    background: #F6762C;
+    width: 165px;
+    height: 49px;
+    flex-shrink: 0;
+    border-radius: 5px;
+    border: none;
+}
+.cofe{
+background-image: url(./img/img1.png);
+width: 550px;
+height: 300px;
+flex-shrink: 0;
+margin-top: 100px;
+
+}
+.cofee{
+    margin-left: 280px;
+    margin-top: 60px;
+}
+.btn1{
+    width: 165px;
+    height: 49px;
+    flex-shrink: 0;
+    border-radius: 5px;
+    background: #F6762C;
+    border: none;
+}
+.p1{
+    color: #F6762C;;
+}
+.pizza{
+    background-image: url(./img/img2.png);
+    width: 550px;
+height: 300px;
+flex-shrink: 0;
+margin-top: 100px;
+
+}
+.pizzaa{
+    margin-top: 60px;
+    margin-right: 60px;
+}
+.btn2{
+    width: 165px;
+    height: 49px;
+    flex-shrink: 0;
+    border-radius: 5px;
+    background: #F6762C;
+    border: none;
+ 
+}
+.king{
+    background-image: url(./img/img3.png);
+    width: 550px;
+height: 300px;
+flex-shrink: 0;
+margin-top: 40px; ;
+margin-left: 85px;
+}
+.kingg{
+    margin-left: 300px;
+    margin-top: 60px;
+}
+.lavash{
+    background-image: url(./img/img4.png);
+    width: 550px;
+height: 300px;
+flex-shrink: 0;
+margin-top: 40px; ;
+margin-left: 50px;
+}
+.lavash1{
+    margin-top: 60px; 
+}
+.imgs1{
+    padding-left: 130px;
+   
+}
+.footer{
+    margin-top: 50px;
+}
+.imgf{
+    margin-top: -10px;
+}
+.imd{
+    margin-top: -30px;
+
+}
